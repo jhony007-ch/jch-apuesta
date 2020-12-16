@@ -1,0 +1,9 @@
+echo "# jch-apuesta" >> README.md 
+git init 
+git agregar README.md 
+git commit -m "primer compromiso" 
+git branch -M main 
+git remote agregar origen https://github.com/jhony007-ch/jch-apuesta.git
+ git push -u origen principal
+                git abrir pantalla principal
+git opciones 
